@@ -37,7 +37,8 @@
 
 <br clear="both">
 
-![snake gif](https://github.com/pradumchintamani/pradumchintamani/blob/output/github-contribution-grid-snake.gif)
+<img src="https://github.com/pradumchintamani/pradumchintamani/raw/output/github-contribution-grid-snake.svg.svg" alt="Description" width="300" height="200">
+
 
 
 
