@@ -37,7 +37,9 @@
 
 <br clear="both">
 
-<img src="https://github.com/pradumchintamani/pradumchintamani/raw/output/github-contribution-grid-snake.svg.svg" alt="Description" width="300" height="200">
+<img src="https://github.com/pradumchintamani/pradumchintamani/raw/output/github-contribution-grid-snake.svg.svg?sanitize=true" alt="Description" width="300" height="200">
+
+
 
 
 
